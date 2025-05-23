@@ -15,7 +15,9 @@
 
   # Sets environment variables in the workspace
   env = {
-    NEZHA_KEY="kBFx009k2xzeucpgi7";
+    NEZHA_KEY="";
+    ARGO_DOMAIN="";
+    ARGO_AUTH="";
   };
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
